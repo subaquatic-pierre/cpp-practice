@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pierre/Courses/cpp-practice/test/build",
+  "command": "/bin/g++-10    -g   -o CMakeFiles/awesome.dir/main.cpp.o -c /home/pierre/Courses/cpp-practice/test/main.cpp",
+  "file": "/home/pierre/Courses/cpp-practice/test/main.cpp"
+}
+]

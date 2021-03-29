@@ -1,0 +1,7 @@
+{
+    "C_Cpp.intelliSenseEngine": "Default",
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "/home/pierre/Tools/vcpkg/scripts/buildsystems/vcpkg.cmake",
+        "VCPKG_BUILD":"ON",
+    }
+}
